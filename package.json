@@ -8,13 +8,13 @@
     "start": "node index.js"
   },
   "keywords": [
-  	"nauka",
-  	"npm",
-  	"node"
+    "nauka",
+    "npm",
+    "node"
   ],
   "author": "Anna Gajewska",
   "license": "ISC",
   "dependencies": {
-  	"colors": "^1.2.4"
+    "colors": "^1.2.4"
   }
 }
